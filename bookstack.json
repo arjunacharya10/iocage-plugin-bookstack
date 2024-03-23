@@ -13,7 +13,7 @@
   "php74-mysqli", "php74-phar", "php74-opcache", "php74-tidy",
   "php74-composer", "mysql80-client", "mysql80-server", "nginx", "git"
   ],
-  "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/latest",
+  "packagesite": "http://pkg.FreeBSD.org/FreeBSD:13:amd64/latest",
   "fingerprints": {
     "iocage-plugins": [
       {
